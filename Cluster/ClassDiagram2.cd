@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Socona.Clustering.Algorithms.Additional" Collapsed="true">
+    <Position X="13.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAABAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Algorithms\Additional.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Arguments" Collapsed="true">
+    <Position X="12.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Algorithms\Additional.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Results" Collapsed="true">
+    <Position X="14.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Algorithms\Additional.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Algorithm" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAABAAGAAAAAAAACAAAABAAIAAAAAAABAA=</HashCode>
+      <FileName>Algorithms\Algorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Average" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Algorithms\Average.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Centroid" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Algorithms\Centroid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Complete" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Algorithms\Complete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.CopKmeans" Collapsed="true">
+    <Position X="4.25" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAIAAAAAAAAAAAAAAAoAAA=</HashCode>
+      <FileName>Algorithms\CopKmeans.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.FSC" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAASQAAAEAAMBAIACAAYDAACAgQIAAABAA=</HashCode>
+      <FileName>Algorithms\FSC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Kmean" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAQQAAAEEAMAAIAEAAIBAACAgAAAAABAA=</HashCode>
+      <FileName>Algorithms\Kmean.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Kprototype" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Algorithms\Kprototype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.LW" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAJAAAAAAAAABAEAAABAAAAAAAFAABiA=</HashCode>
+      <FileName>Algorithms\LW.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Median" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Algorithms\Median.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Single" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Algorithms\Single.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Ward" Collapsed="true">
+    <Position X="13.25" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Algorithms\Ward.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Algorithms.Weighted" Collapsed="true">
+    <Position X="14.75" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Algorithms\Weighted.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Clusters.CenterCluster" Collapsed="true">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Clusters\CenterCluster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Clusters.Cluster" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clusters\Cluster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Clusters.HClustering" Collapsed="true">
+    <Position X="14.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAACAAAAAAQAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Clusters\HClustering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Clusters.PClustering" Collapsed="true">
+    <Position X="10" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEEIAAAAAAAAAkgGAAAAAAACAAAAAAQAAEEAACAAA=</HashCode>
+      <FileName>Clusters\PClustering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Clusters.SubspaceCluster" Collapsed="true">
+    <Position X="1.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Clusters\SubspaceCluster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Clusters.WeightedCenterCluster" Collapsed="true">
+    <Position X="3.25" Y="8.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Clusters\WeightedCenterCluster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Constraints.CannotLinkSet" Collapsed="true">
+    <Position X="14.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constraints\CannotLinkSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Constraints.ConstraintSet" Collapsed="true">
+    <Position X="13.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACoACBBAACBAQBBSAAAABAQAAAAAACCAAgAAAABQIAA=</HashCode>
+      <FileName>Constraints\ConstraintSet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Constraints.MustLinkSet" Collapsed="true">
+    <Position X="12.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constraints\MustLinkSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Constraints.PairConstraint" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQQEAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constraints\PairConstraint.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Datasets.AttrInfo" Collapsed="true">
+    <Position X="2.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAGAAggAAAAAQAAAAAAIAAAQAAAAAAAiA=</HashCode>
+      <FileName>Datasets\AttrInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Datasets.CAttrInfo" Collapsed="true">
+    <Position X="3.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAGAAgEAAAgAEAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Datasets\CAttrInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Datasets.ConstraintedDataset" Collapsed="true">
+    <Position X="4.75" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Datasets\ConstraintedDataset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Datasets.Dataset" Collapsed="true">
+    <Position X="4.75" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAEAAAAAAAA=</HashCode>
+      <FileName>Datasets\Dataset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Datasets.DAttriInfo" Collapsed="true">
+    <Position X="1.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACCAAAAAAGAAgAQEAgCAAAAAAACAAAAAAAAAAAgA=</HashCode>
+      <FileName>Datasets\DAttriInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Datasets.Record" Collapsed="true">
+    <Position X="12.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAAAAAEAAAAAAAEAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Datasets\Record.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Datasets.Schema" Collapsed="true">
+    <Position X="14.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgIAAAAAAAAAAAAAABAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Datasets\Schema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Distances.Distance" Collapsed="true">
+    <Position X="10" Y="9.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Distances\Distance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Distances.EuclideanDistance" Collapsed="true">
+    <Position X="10" Y="12" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Distances\EuclideanDistance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Distances.MinkowskiDistance" Collapsed="true">
+    <Position X="10" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Distances\MinkowskiDistance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Patterns.DendrogramVisitor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="13.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABQAICAAAAACQQARAAIAQAAAwIABgAAQAAAAAAAAAQ=</HashCode>
+      <FileName>Patterns\DendrogramVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Patterns.InternalNode" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACACAAAAAAAAAAAAAAQAAAAABAAAABAAAABAAAAAA=</HashCode>
+      <FileName>Patterns\InternalNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Patterns.JoinValueVisitor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Patterns\JoinValueVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Patterns.LeafNode" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACACAAAAAAAAAAAAAAQAAAAAAAABABAAAABAAAAAA=</HashCode>
+      <FileName>Patterns\LeafNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Patterns.PCVisitor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\PCVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Patterns.CVisitor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\PCVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Utilities.ConstraintedDatasetReader" Collapsed="true">
+    <Position X="7" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Utilities\ConstraintedDatasetReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Utilities.Container&lt;T&gt;" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGIAAEAAAAAAABAQCAAABAQAAAAAAAAACAAQAABQIAA=</HashCode>
+      <FileName>Utilities\Container.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Utilities.DataAdapter" Collapsed="true">
+    <Position X="6.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\DataAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Utilities.DatasetGenerator" Collapsed="true">
+    <Position X="5.25" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABABAAAAQAAAAAAAAAAAAAAACAAQAAAQAGAAAAA=</HashCode>
+      <FileName>Utilities\DatasetGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Utilities.DatasetReader" Collapsed="true">
+    <Position X="7.25" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAEAAAiAAIAAAAAAAAADAAAAUAEAAAAAAA=</HashCode>
+      <FileName>Utilities\DatasetReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Utilities.Dendrogram" Collapsed="true">
+    <Position X="10.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAIAAAAAAAAACAAAAAAAAAwAAABCAAUAAgAAAAIA=</HashCode>
+      <FileName>Utilities\Dendrogram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socona.Clustering.Utilities.NNMap&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="15.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AGIAEAAAAAAEABAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\NNMap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Utilities.IntMapComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.75" Y="15.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Utilities\NNMap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Utilities.DoubleMapComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="15.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Utilities\NNMap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Socona.Clustering.Utilities.NNMapDoubleComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="15.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Utilities\NNMap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="Socona.Clustering.Datasets.AttrValue" Collapsed="true">
+    <Position X="1.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAiAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Datasets\AttrValue.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Socona.Clustering.Datasets.CAttrValue" Collapsed="true">
+    <Position X="3.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Datasets\AttrValue.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Socona.Clustering.Datasets.DAttrValue" Collapsed="true">
+    <Position X="5.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Datasets\AttrValue.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Socona.Clustering.Patterns.INode" Collapsed="true">
+    <Position X="7.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACACAAAAAAAAAAAAAAQAAAAAAAAAABAAAABAAAAAA=</HashCode>
+      <FileName>Patterns\Node.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Socona.Clustering.Patterns.INodeVisitor" Collapsed="true">
+    <Position X="9" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\NodeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Socona.Clustering.Datasets.AttrType" Collapsed="true">
+    <Position X="11.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATA=</HashCode>
+      <FileName>Datasets\AttrInfo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
