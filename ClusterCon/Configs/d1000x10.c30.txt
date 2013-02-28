@@ -1,0 +1,54 @@
+﻿-db		:=Socona.Expor.Databases.WithConstraintsStaticArrayDatabase;
+-db.index	:=Socona.Expor.Indexes.Preprocessed.Knn.KNNJoinMaterializeKNNPreprocessor+Factory;
+-dbc.in		:=E:\SkyDrive\Work\DataSets\artificial\1000x10.txt;
+-dbc.in.cons	:=E:\SkyDrive\Work\DataSets\artificial\1000x10.cons.txt;
+-dbc.filter	:=Socona.Expor.DataSources.Filters.Normalization.AttributeWiseMinMaxNormalization;
+
+-algorithm	:=Clustering.Subspace.PROCLUS,Clustering.WeightedSubspace.CLWC,Clustering.Subspace.FINDIT,Clustering.Subspace.CProclusKMeans,Clustering.Subspace.CProclusDBSCAN, Clustering.Subspace.CProclusKNN,Clustering.Subspace.PCKA,Clustering.Subspace.SSPCBase,Clustering.Subspace.P3C,Clustering.WeightedSubspace.EWKM,Clustering.WeightedSubspace.ESSC;
+
+
+-materialize.k	:=5;
+
+-proclus.mi	:=10;
+-projectedclustering.k:=5;
+-projectedclustering.k_i:=50;
+-projectedclustering.l:=5;
+
+-findit.cminsize:=220;
+-findit.dmindist:=4;
+
+-cpknn.alpha	:=0.6;
+-cpknn.k	:=64;
+-findit.cminsize:=90;
+-findit.dmindist:=4;
+
+
+-cpdbscan.epsilon:=0.02;
+-cpdbscan.minpts:=25;
+-findit.cminsize:=90;
+-findit.dmindist:=4;
+
+                         
+-cpkm.maxiter	:=500;
+-cpkm.k		:=5;
+-findit.cminsize:=90;
+-findit.dmindist:=4;
+
+-weightsub.k :=5;
+-lwc.maxiter	:=500;
+
+-pcka.k		:=5;
+
+-sspc.k		:=5;
+-sspc.m		:=0.7;
+
+-weightsub.k :=5;
+-essc.gamma :=20;
+
+-ewkm.k  :=5;
+-ewkm.gamma :=20;
+
+
+
+-resulthandler	:=ResultWriter;
+-out		:=d1000x10.c30;
